@@ -8,6 +8,7 @@ using LeagueSharp;
 using LeagueSharp.Common;
 using LeagueSharp.Common.Data;
 using GameItem = LeagueSharp.Common.Items.Item;
+using ItemData = LeagueSharp.Common.Data.ItemData;
 using SharpDX;
 
 namespace Rek_Sai
